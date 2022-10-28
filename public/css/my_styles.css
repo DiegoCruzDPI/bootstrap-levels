@@ -9,3 +9,18 @@ html, body {
   justify-content: center;
   align-items: center;
 }
+
+.base-button{
+  padding: 10px;
+  color: white;
+  border-radius: 3px;
+}
+
+.blue-button{
+  border: 1px blue solid;
+  background-color: blue;
+}
+
+.blue-button:hover{
+  background-color: darkblue;
+}
